@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
-  "notes": "window controls, crash fix, config fix",
-  "installer": "https://github.com/Cain-J/Bot-updater/releases/download/v1.0.1/cosmos-bot-Setup-1.0.1.exe"
+  "version": "1.0.2",
+  "notes": "steps input fix, live metrics, slick scrollbar",
+  "installer": "https://github.com/Cain-J/Bot-updater/releases/download/v1.0.2/cosmos-bot-Setup-1.0.2.exe"
 }
